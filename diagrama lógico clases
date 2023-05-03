@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T00:27:58.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8DD8XTDY72GGXVM1xmov" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T00:44:30.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qeUAlAWBhj5DyI-HXooo" version="21.2.6" type="github">
   <diagram name="Página-1" id="1HLBFI1Llf-OB6IXRF-3">
     <mxGraphModel dx="1393" dy="4277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -317,6 +317,63 @@
               <mxPoint x="380" y="2230" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-137" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="704.8" y="2498.8" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-138" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="452.8" y="2490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-139" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="189.7" y="2485.41" width="31.3" height="84.59" as="geometry" />
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-141" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1">
+          <mxGeometry x="716" y="2670" width="40" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-145" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.key_permissions" vertex="1" parent="1">
+          <mxGeometry x="597" y="2600" width="26" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-146" value="usuario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175.35" y="2570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-147" value="Firewall SS&lt;br&gt;PaloAlto3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="452.8" y="2570" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-148" value="VM-VSS323-4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="686" y="2570" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-149" value="HHD/SSD&lt;br&gt;Windows&lt;br&gt;C/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="2730" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-150" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="nfCif5TuLHIlwO4yThCG-138">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="2530" as="sourcePoint" />
+            <mxPoint x="360" y="2498.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-151" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nfCif5TuLHIlwO4yThCG-138">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="467" y="2529.38" as="sourcePoint" />
+            <mxPoint x="700" y="2529.38" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-152" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.035;entryY=0.889;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nfCif5TuLHIlwO4yThCG-145" target="nfCif5TuLHIlwO4yThCG-137">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="543" y="2540" as="sourcePoint" />
+            <mxPoint x="710" y="2539.38" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="2554" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-154" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.476;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nfCif5TuLHIlwO4yThCG-137" target="nfCif5TuLHIlwO4yThCG-141">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="2660" as="sourcePoint" />
+            <mxPoint x="780" y="2610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-155" value="Modelo de fisico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="138" y="2340" width="720" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
