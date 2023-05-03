@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T00:10:58.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xkWrrVnaRUMg-FknFEa4" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T00:14:23.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qQefUfN0skG4C9-9NrT6" version="21.2.6" type="github">
   <diagram name="Página-1" id="1HLBFI1Llf-OB6IXRF-3">
-    <mxGraphModel dx="1393" dy="1939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1393" dy="3108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,6 +177,18 @@
         </mxCell>
         <mxCell id="nfCif5TuLHIlwO4yThCG-67" value="UML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="164" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-70" value="El Bootloader" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="369" y="-1213" width="224" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-74" value="computador" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="369" y="-990" width="224" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-75" value="usuario" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="369" y="-1439" width="224" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="nfCif5TuLHIlwO4yThCG-78" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-1210" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
